@@ -1,4 +1,4 @@
-# l3
+# lajfex-ng
 
 Web UI for controlling LIFX lights over LAN.
 
