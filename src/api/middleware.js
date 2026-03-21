@@ -14,5 +14,5 @@ if (existsSync(distPath)) {
 }
 
 app.listen(port, () => {
-  console.log(`l3 listening on port ${port}`);
+  console.log(`lajfex-ng listening on port ${port}`);
 });
